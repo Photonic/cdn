@@ -1,2 +1,6 @@
 application/cache/*
 application/logs/*
+.project
+.buildpath
+.settings*
+vendor
