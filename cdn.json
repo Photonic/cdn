@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Images",
+			"dir": "img"
+		},
+		{
+			"name": "Stylesheets",
+			"dir": "css"
+		}
+	]
+}
