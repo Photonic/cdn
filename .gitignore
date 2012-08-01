@@ -4,3 +4,4 @@ application/logs/*
 .buildpath
 .settings*
 vendor
+.DS_STORE
